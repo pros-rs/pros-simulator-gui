@@ -49,7 +49,7 @@
         "tailwind-merge": "^2.0.0",
         "tslib": "^2.6.0",
         "typescript": "^5.0.2",
-        "vite": "^4.5.1"
+        "vite": "^4.5.2"
     },
     "packageManager": "pnpm@8.12.1+sha256.28ca61ece5a496148b73fabc9afb820f9c3fec4f55f04ce45a2cea0a5219f2e1"
 }
